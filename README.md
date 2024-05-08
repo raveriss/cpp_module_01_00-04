@@ -1,6 +1,6 @@
 # cpp_module_01_00_04
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png?raw=true" alt="Badge du projet cub3d">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png?raw=true" alt="Badge du projet cub3d">
 </div>
 
 ## Description
