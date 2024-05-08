@@ -4,7 +4,7 @@
 </div>
 
 ## Description
-Ce dépôt contient les solutions aux exercices C++ de cpp00 à cpp04, qui approfondissent des concepts de la programmation orientée objet, le polymorphisme, la gestion de la mémoire, et d'autres sujets avancés selon les standards de l'école 42.
+Ce dépôt documente mon parcours personnel à travers les exercices C++ de cpp00 à cpp04, mettant en lumière ma compréhension et application des principes de la programmation orientée objet, du polymorphisme, de la gestion de la mémoire et d'autres techniques avancées conformément aux exigences de l'école 42.
 
 ## Table des Matières
 - **cpp00** : Bases de la programmation en C++, incluant les classes et les instances.
